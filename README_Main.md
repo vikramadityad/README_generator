@@ -59,6 +59,9 @@ If you would like to contribute to this project, please follow these guidelines:
 4. Push your changes to your fork: git push origin feature-name
 5. Create a pull request to the main repository.
 
+## Acknowledgement
+https://github.com/coding-boot-camp/potential-enigma
+
 ## License 
 
 This project is licensed under the MIT License. See the LICENSE file for details.
