@@ -43,6 +43,11 @@ To install the required dependencies (Inquirer), use the following command:
 ## How to Use
 To use the README generator, execute the following command in your project directory:
 
+## Screenshots
+
+<img width="2516" alt="Screenshot 2023-10-10 at 12 42 31 AM" src="https://github.com/vikramadityad/README_generator/assets/28673859/af4de153-ce43-451c-8f02-b25d41145190">
+
+
 ## LiveVideo: 
 https://drive.google.com/file/d/19t-VChAmYnNRyFT0Je07QMsTpEwzlbCQ/view?usp=sharing
 
