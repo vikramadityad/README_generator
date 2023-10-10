@@ -2,8 +2,7 @@
 
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  # Title
-  Professional README Generator
+  # Professional README Generator
   
   ## Description
   When creating an open-source project on GitHub, it's crucial to have a high-quality README for the app. This README should include information about what the app is for, how to use it, how to install it, how to report issues, and how others can contribute to its success. Writing a good README can help attract more developers to contribute to the project.
