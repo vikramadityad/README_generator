@@ -10,6 +10,8 @@
 - [Features](#features)
 - [How to Install](#how-to-install)
 - [How to Use](#how-to-use)
+- [Screenshots](#screenshots)
+- [Live URL](#liveURL)
 - [Contributing](#contributing)
 - [License](#license)
 
